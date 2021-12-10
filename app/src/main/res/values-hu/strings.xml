@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bevásárló Lista</string>
+    <string name="any">   </string>
+    <string name="food">Élelmiszer</string>
+    <string name="electronic">Műszaki cikk</string>
+    <string name="book">Könyv</string>
+    <string name="clothes">Ruházat</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="dialogAdd">ÚJ ELEM HOZZÁADÁSA</string>
+    <string name="product_name">Termék neve</string>
+    <string name="price">Ár</string>
+    <string name="details">Megjegyzések:</string>
+    <string name="currency">Ft</string>
+    <string name="purchased">Megvásárolva</string>
+</resources>
