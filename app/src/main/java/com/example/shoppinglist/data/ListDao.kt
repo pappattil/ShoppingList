@@ -10,7 +10,7 @@ interface ListDAO {
     fun getAllLists(): List<ShopList>
 
     @Insert
-    fun insertList(vararg list: ShopList): Long
+    fun insertList(list: ShopList): Long
 
     @Delete
     fun deleteList(list:ShopList)
